@@ -1,0 +1,1 @@
+SetServerDescription("Gothic Online\nПолигон: Яркендар\nРежим: Ролевая игра"); -- описание сервера

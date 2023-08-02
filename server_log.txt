@@ -1,0 +1,409 @@
+[21:48:10] 
+[21:48:10] Gothic Multiplayer Dedicated Server
+[21:48:10] -----------------------------------
+[21:48:10] GMP 1.6.0
+[21:48:10] -----------------------------------
+[21:48:10] https://gitlab.com/Reveares/GMP
+[21:48:10] https://discord.gg/JHuQvWB
+[21:48:10] 
+[21:48:10] Loading server configuration...
+[21:48:10] hostname:         Gothic Online
+[21:48:10] max players:      100
+[21:48:10] max bots:         1500
+[21:48:10] max timers:       1000
+[21:48:10] max items:        1000
+[21:48:10] max sounds:       1000
+[21:48:10] max global draws: 2000
+[21:48:10] max textures:     8000
+[21:48:10] stream distance:  8000 centimeters
+[21:48:10] stream rate:      1000 milliseconds
+[21:48:10] position rate:    200 milliseconds
+[21:48:10] key rate:         1 milliseconds
+[21:48:10] game time rate:   4000 milliseconds
+[21:48:10] bot update rate:  500 milliseconds
+[21:48:10] unsynch items:    false
+[21:48:10] stagger on hit:   false
+[21:48:10] Configuration successfully loaded.
+[21:48:10] 
+[21:48:11] [ERROR] Runtime: gamemodes/tom.lua:81: module 'modules/Hunting/Hunting' not found:
+	no field package.preload['modules/Hunting/Hunting']
+	no file '.\modules/Hunting/Hunting.lua'
+	no file 'C:\Users\clapt\Desktop\my_files\GO\lua\modules/Hunting/Hunting.lua'
+	no file 'C:\Users\clapt\Desktop\my_files\GO\lua\modules/Hunting/Hunting\init.lua'
+	no file '.\modules/Hunting/Hunting.dll'
+	no file 'C:\Users\clapt\Desktop\my_files\GO\modules/Hunting/Hunting.dll'
+	no file 'C:\Users\clapt\Desktop\my_files\GO\loadall.dll'
+stack traceback:
+	[C]: in function 'require'
+	gamemodes/tom.lua:81: in main chunk
+[21:48:59] 
+[21:48:59] Gothic Multiplayer Dedicated Server
+[21:48:59] -----------------------------------
+[21:48:59] GMP 1.6.0
+[21:48:59] -----------------------------------
+[21:48:59] https://gitlab.com/Reveares/GMP
+[21:48:59] https://discord.gg/JHuQvWB
+[21:48:59] 
+[21:48:59] Loading server configuration...
+[21:48:59] hostname:         Gothic Online
+[21:48:59] max players:      100
+[21:48:59] max bots:         1500
+[21:48:59] max timers:       1000
+[21:48:59] max items:        1000
+[21:48:59] max sounds:       1000
+[21:48:59] max global draws: 2000
+[21:48:59] max textures:     8000
+[21:48:59] stream distance:  8000 centimeters
+[21:48:59] stream rate:      1000 milliseconds
+[21:48:59] position rate:    200 milliseconds
+[21:48:59] key rate:         1 milliseconds
+[21:48:59] game time rate:   4000 milliseconds
+[21:48:59] bot update rate:  500 milliseconds
+[21:48:59] unsynch items:    false
+[21:48:59] stagger on hit:   false
+[21:48:59] Configuration successfully loaded.
+[21:48:59] 
+[21:48:59] 
+Gamemode 'gamemodes/tom.lua' has been loaded.
+
+[21:49:00] [bot] Орк-разведчик [ID: 1599] joined the server
+[21:49:00] [bot] Орк-разведчик (1) [ID: 1598] joined the server
+[21:49:00] [bot] Орк-разведчик (2) [ID: 1597] joined the server
+[21:49:00] [bot] Орк-разведчик (3) [ID: 1596] joined the server
+[21:49:00] [bot] Орк-разведчик (4) [ID: 1595] joined the server
+[21:49:00] [bot] Орк-разведчик (5) [ID: 1594] joined the server
+[21:49:00] [bot] Орк-разведчик (6) [ID: 1593] joined the server
+[21:49:00] [bot] Орк-разведчик (7) [ID: 1592] joined the server
+[21:49:00] [bot] Орк-разведчик (8) [ID: 1591] joined the server
+[21:49:00] [bot] Орк-разведчик (9) [ID: 1590] joined the server
+[21:49:00] [bot] Орк-разведчик (10) [ID: 1589] joined the server
+[21:49:00] [bot] Орк-шаман [ID: 1588] joined the server
+[21:49:00] [bot] Орк-шаман (1) [ID: 1587] joined the server
+[21:49:00] [bot] Орк-шаман (2) [ID: 1586] joined the server
+[21:49:00] [bot] Орк-шаман (3) [ID: 1585] joined the server
+[21:49:00] [bot] Орк-воин [ID: 1584] joined the server
+[21:49:00] [bot] Орк-воин (1) [ID: 1583] joined the server
+[21:49:00] [bot] Орк-воин (2) [ID: 1582] joined the server
+[21:49:00] [bot] Орк-воин (3) [ID: 1581] joined the server
+[21:49:00] [bot] Орк-воин (4) [ID: 1580] joined the server
+[21:49:00] [bot] Орк-воин (5) [ID: 1579] joined the server
+[21:49:00] [bot] Орк-воин (6) [ID: 1578] joined the server
+[21:49:00] [bot] Орк-воин (7) [ID: 1577] joined the server
+[21:49:00] [bot] Орк-воин (8) [ID: 1576] joined the server
+[21:49:00] [bot] Орк-воин (9) [ID: 1575] joined the server
+[21:49:00] [bot] Орк-воин (10) [ID: 1574] joined the server
+[21:49:00] [bot] Орк-воин (11) [ID: 1573] joined the server
+[21:49:00] [bot] Орк-воин (12) [ID: 1572] joined the server
+[21:49:00] [bot] Орк-командир [ID: 1571] joined the server
+[21:49:00] [bot] Орк-командир (1) [ID: 1570] joined the server
+[21:49:00] [bot] Орк-командир (2) [ID: 1569] joined the server
+[21:49:00] [bot] Дикарь [ID: 1568] joined the server
+[21:49:00] [bot] Дикарь (1) [ID: 1567] joined the server
+[21:49:00] [bot] Дикарь (2) [ID: 1566] joined the server
+[21:49:00] [bot] Дикарь (3) [ID: 1565] joined the server
+[21:49:00] [bot] Дикарь (4) [ID: 1564] joined the server
+[21:49:00] [bot] Дикарь (5) [ID: 1563] joined the server
+[21:49:00] [bot] Дикарь (6) [ID: 1562] joined the server
+[21:49:00] [bot] Дикарь (7) [ID: 1561] joined the server
+[21:49:00] [bot] Дикарь (8) [ID: 1560] joined the server
+[21:49:00] [bot] Дикарь (9) [ID: 1559] joined the server
+[21:49:00] [bot] Ползун [ID: 1558] joined the server
+[21:49:00] [bot] Ползун (1) [ID: 1557] joined the server
+[21:49:00] [bot] Ползун (2) [ID: 1556] joined the server
+[21:49:00] [bot] Ползун (3) [ID: 1555] joined the server
+[21:49:00] [bot] Ползун (4) [ID: 1554] joined the server
+[21:49:00] [bot] Ползун (5) [ID: 1553] joined the server
+[21:49:00] [bot] Ползун (6) [ID: 1552] joined the server
+[21:49:00] [bot] Ползун (7) [ID: 1551] joined the server
+[21:49:00] [bot] Ползун (8) [ID: 1550] joined the server
+[21:49:00] [bot] Ползун (9) [ID: 1549] joined the server
+[21:49:00] [bot] Ползун (10) [ID: 1548] joined the server
+[21:49:00] [bot] Ползун (11) [ID: 1547] joined the server
+[21:49:00] [bot] Ползун (12) [ID: 1546] joined the server
+[21:49:00] [bot] Ползун (13) [ID: 1545] joined the server
+[21:49:00] [bot] Ползун (14) [ID: 1544] joined the server
+[21:49:00] [bot] Ползун (15) [ID: 1543] joined the server
+[21:49:00] [bot] Ползун (16) [ID: 1542] joined the server
+[21:49:00] [bot] Ползун (17) [ID: 1541] joined the server
+[21:49:00] [bot] Ползун (18) [ID: 1540] joined the server
+[21:49:00] [bot] Ползун (19) [ID: 1539] joined the server
+[21:49:00] [bot] Ползун (20) [ID: 1538] joined the server
+[21:49:00] [bot] Ползун (21) [ID: 1537] joined the server
+[21:49:00] [bot] Ползун (22) [ID: 1536] joined the server
+[21:49:00] [bot] Ползун (23) [ID: 1535] joined the server
+[21:49:00] [bot] Ползун (24) [ID: 1534] joined the server
+[21:49:00] [bot] Ползун (25) [ID: 1533] joined the server
+[21:49:00] [bot] Ползун (26) [ID: 1532] joined the server
+[21:49:00] [bot] Ползун (27) [ID: 1531] joined the server
+[21:49:00] [bot] Ползун (28) [ID: 1530] joined the server
+[21:49:00] [bot] Ползун (29) [ID: 1529] joined the server
+[21:49:00] [bot] Ползун (30) [ID: 1528] joined the server
+[21:49:00] [bot] Ползун (31) [ID: 1527] joined the server
+[21:49:00] [bot] Ползун (32) [ID: 1526] joined the server
+[21:49:00] [bot] Ползун (33) [ID: 1525] joined the server
+[21:49:00] [bot] Ползун (34) [ID: 1524] joined the server
+[21:49:00] [bot] Ползун (35) [ID: 1523] joined the server
+[21:49:00] [bot] Ползун (36) [ID: 1522] joined the server
+[21:49:00] [bot] Ползун-воин [ID: 1521] joined the server
+[21:49:00] [bot] Ползун-воин (1) [ID: 1520] joined the server
+[21:49:00] [bot] Ползун-воин (2) [ID: 1519] joined the server
+[21:49:00] [bot] Ползун-воин (3) [ID: 1518] joined the server
+[21:49:00] [bot] Ползун-воин (4) [ID: 1517] joined the server
+[21:49:00] [bot] Ползун-воин (5) [ID: 1516] joined the server
+[21:49:00] [bot] Ползун-воин (6) [ID: 1515] joined the server
+[21:49:00] [bot] Ползун-воин (7) [ID: 1514] joined the server
+[21:49:00] [bot] Ползун-воин (8) [ID: 1513] joined the server
+[21:49:00] [bot] Ползун-воин (9) [ID: 1512] joined the server
+[21:49:00] [bot] Ползун-воин (10) [ID: 1511] joined the server
+[21:49:00] [bot] Ползун-воин (11) [ID: 1510] joined the server
+[21:49:00] [bot] Ползун-воин (12) [ID: 1509] joined the server
+[21:49:00] [bot] Ползун-воин (13) [ID: 1508] joined the server
+[21:49:00] [bot] Ползун-воин (14) [ID: 1507] joined the server
+[21:49:00] [bot] Ползун-воин (15) [ID: 1506] joined the server
+[21:49:00] [bot] Ползун-воин (16) [ID: 1505] joined the server
+[21:49:00] [bot] Ползун-воин (17) [ID: 1504] joined the server
+[21:49:00] [bot] Ползун-воин (18) [ID: 1503] joined the server
+[21:49:00] [bot] Ползун-воин (19) [ID: 1502] joined the server
+[21:49:00] [bot] Ползун-воин (20) [ID: 1501] joined the server
+[21:49:00] [bot] Волк [ID: 1500] joined the server
+[21:49:00] [bot] Волк (1) [ID: 1499] joined the server
+[21:49:00] [bot] Волк (2) [ID: 1498] joined the server
+[21:49:00] [bot] Волк (3) [ID: 1497] joined the server
+[21:49:00] [bot] Волк (4) [ID: 1496] joined the server
+[21:49:00] [bot] Волк (5) [ID: 1495] joined the server
+[21:49:00] [bot] Волк (6) [ID: 1494] joined the server
+[21:49:00] [bot] Волк (7) [ID: 1493] joined the server
+[21:49:00] [bot] Волк (8) [ID: 1492] joined the server
+[21:49:00] [bot] Волк (9) [ID: 1491] joined the server
+[21:49:00] [bot] Волк (10) [ID: 1490] joined the server
+[21:49:00] [bot] Волк (11) [ID: 1489] joined the server
+[21:49:00] [bot] Волк (12) [ID: 1488] joined the server
+[21:49:00] [bot] Волк (13) [ID: 1487] joined the server
+[21:49:00] [bot] Волк (14) [ID: 1486] joined the server
+[21:49:00] [bot] Волк (15) [ID: 1485] joined the server
+[21:49:00] [bot] Волк (16) [ID: 1484] joined the server
+[21:49:00] [bot] Волк (17) [ID: 1483] joined the server
+[21:49:00] [bot] Волк (18) [ID: 1482] joined the server
+[21:49:00] [bot] Волк (19) [ID: 1481] joined the server
+[21:49:00] [bot] Волк (20) [ID: 1480] joined the server
+[21:49:00] [bot] Волк (21) [ID: 1479] joined the server
+[21:49:00] [bot] Падальщик [ID: 1478] joined the server
+[21:49:00] [bot] Падальщик (1) [ID: 1477] joined the server
+[21:49:00] [bot] Падальщик (2) [ID: 1476] joined the server
+[21:49:00] [bot] Падальщик (3) [ID: 1475] joined the server
+[21:49:00] [bot] Падальщик (4) [ID: 1474] joined the server
+[21:49:00] [bot] Падальщик (5) [ID: 1473] joined the server
+[21:49:00] [bot] Падальщик (6) [ID: 1472] joined the server
+[21:49:00] [bot] Падальщик (7) [ID: 1471] joined the server
+[21:49:00] [bot] Падальщик (8) [ID: 1470] joined the server
+[21:49:00] [bot] Падальщик (9) [ID: 1469] joined the server
+[21:49:00] [bot] Падальщик (10) [ID: 1468] joined the server
+[21:49:00] [bot] Падальщик (11) [ID: 1467] joined the server
+[21:49:00] [bot] Падальщик (12) [ID: 1466] joined the server
+[21:49:00] [bot] Падальщик (13) [ID: 1465] joined the server
+[21:49:00] [bot] Падальщик (14) [ID: 1464] joined the server
+[21:49:00] [bot] Падальщик (15) [ID: 1463] joined the server
+[21:49:00] [bot] Падальщик (16) [ID: 1462] joined the server
+[21:49:00] [bot] Падальщик (17) [ID: 1461] joined the server
+[21:49:00] [bot] Падальщик (18) [ID: 1460] joined the server
+[21:49:00] [bot] Падальщик (19) [ID: 1459] joined the server
+[21:49:00] [bot] Падальщик (20) [ID: 1458] joined the server
+[21:49:00] [bot] Падальщик (21) [ID: 1457] joined the server
+[21:49:00] [bot] Падальщик (22) [ID: 1456] joined the server
+[21:49:00] [bot] Падальщик (23) [ID: 1455] joined the server
+[21:49:00] [bot] Падальщик (24) [ID: 1454] joined the server
+[21:49:00] [bot] Падальщик (25) [ID: 1453] joined the server
+[21:49:00] [bot] Падальщик (26) [ID: 1452] joined the server
+[21:49:00] [bot] Падальщик (27) [ID: 1451] joined the server
+[21:49:00] [bot] Падальщик (28) [ID: 1450] joined the server
+[21:49:00] [bot] Падальщик (29) [ID: 1449] joined the server
+[21:49:00] [bot] Падальщик (30) [ID: 1448] joined the server
+[21:49:00] [bot] Падальщик (31) [ID: 1447] joined the server
+[21:49:00] [bot] Падальщик (32) [ID: 1446] joined the server
+[21:49:00] [bot] Падальщик (33) [ID: 1445] joined the server
+[21:49:00] [bot] Падальщик (34) [ID: 1444] joined the server
+[21:49:00] [bot] Падальщик (35) [ID: 1443] joined the server
+[21:49:00] [bot] Падальщик (36) [ID: 1442] joined the server
+[21:49:00] [bot] Падальщик (37) [ID: 1441] joined the server
+[21:49:00] [bot] Падальщик (38) [ID: 1440] joined the server
+[21:49:00] [bot] Кротокрыс [ID: 1439] joined the server
+[21:49:00] [bot] Кротокрыс (1) [ID: 1438] joined the server
+[21:49:00] [bot] Кротокрыс (2) [ID: 1437] joined the server
+[21:49:00] [bot] Кротокрыс (3) [ID: 1436] joined the server
+[21:49:00] [bot] Кротокрыс (4) [ID: 1435] joined the server
+[21:49:00] [bot] Кротокрыс (5) [ID: 1434] joined the server
+[21:49:00] [bot] Кротокрыс (6) [ID: 1433] joined the server
+[21:49:00] [bot] Кротокрыс (7) [ID: 1432] joined the server
+[21:49:00] [bot] Кротокрыс (8) [ID: 1431] joined the server
+[21:49:00] [bot] Кротокрыс (9) [ID: 1430] joined the server
+[21:49:00] [bot] Кротокрыс (10) [ID: 1429] joined the server
+[21:49:00] [bot] Кротокрыс (11) [ID: 1428] joined the server
+[21:49:00] [bot] Кротокрыс (12) [ID: 1427] joined the server
+[21:49:00] [bot] Кротокрыс (13) [ID: 1426] joined the server
+[21:49:00] [bot] Кротокрыс (14) [ID: 1425] joined the server
+[21:49:00] [bot] Кротокрыс (15) [ID: 1424] joined the server
+[21:49:00] [bot] Кротокрыс (16) [ID: 1423] joined the server
+[21:49:00] [bot] Кротокрыс (17) [ID: 1422] joined the server
+[21:49:00] [bot] Кротокрыс (18) [ID: 1421] joined the server
+[21:49:00] [bot] Кротокрыс (19) [ID: 1420] joined the server
+[21:49:00] [bot] Кротокрыс (20) [ID: 1419] joined the server
+[21:49:00] [bot] Кротокрыс (21) [ID: 1418] joined the server
+[21:49:00] [bot] Шершень [ID: 1417] joined the server
+[21:49:00] [bot] Шершень (1) [ID: 1416] joined the server
+[21:49:00] [bot] Шершень (2) [ID: 1415] joined the server
+[21:49:00] [bot] Шершень (3) [ID: 1414] joined the server
+[21:49:00] [bot] Шершень (4) [ID: 1413] joined the server
+[21:49:00] [bot] Шершень (5) [ID: 1412] joined the server
+[21:49:00] [bot] Шершень (6) [ID: 1411] joined the server
+[21:49:00] [bot] Шершень (7) [ID: 1410] joined the server
+[21:49:00] [bot] Шершень (8) [ID: 1409] joined the server
+[21:49:00] [bot] Шершень (9) [ID: 1408] joined the server
+[21:49:00] [bot] Шершень (10) [ID: 1407] joined the server
+[21:49:00] [bot] Шершень (11) [ID: 1406] joined the server
+[21:49:00] [bot] Шершень (12) [ID: 1405] joined the server
+[21:49:00] [bot] Шершень (13) [ID: 1404] joined the server
+[21:49:00] [bot] Шершень (14) [ID: 1403] joined the server
+[21:49:00] [bot] Шершень (15) [ID: 1402] joined the server
+[21:49:00] [bot] Шершень (16) [ID: 1401] joined the server
+[21:49:00] [bot] Шершень (17) [ID: 1400] joined the server
+[21:49:00] [bot] Шершень (18) [ID: 1399] joined the server
+[21:49:00] [bot] Шершень (19) [ID: 1398] joined the server
+[21:49:00] [bot] Шершень (20) [ID: 1397] joined the server
+[21:49:00] [bot] Шершень (21) [ID: 1396] joined the server
+[21:49:00] [bot] Шершень (22) [ID: 1395] joined the server
+[21:49:00] [bot] Шершень (23) [ID: 1394] joined the server
+[21:49:00] [bot] Шершень (24) [ID: 1393] joined the server
+[21:49:00] [bot] Шершень (25) [ID: 1392] joined the server
+[21:49:00] [bot] Богомол [ID: 1391] joined the server
+[21:49:00] [bot] Богомол (1) [ID: 1390] joined the server
+[21:49:00] [bot] Богомол (2) [ID: 1389] joined the server
+[21:49:00] [bot] Богомол (3) [ID: 1388] joined the server
+[21:49:00] [bot] Богомол (4) [ID: 1387] joined the server
+[21:49:00] [bot] Богомол (5) [ID: 1386] joined the server
+[21:49:00] [bot] Богомол (6) [ID: 1385] joined the server
+[21:49:00] [bot] Богомол (7) [ID: 1384] joined the server
+[21:49:00] [bot] Богомол (8) [ID: 1383] joined the server
+[21:49:00] [bot] Богомол (9) [ID: 1382] joined the server
+[21:49:00] [bot] Богомол (10) [ID: 1381] joined the server
+[21:49:00] [bot] Богомол (11) [ID: 1380] joined the server
+[21:49:00] [bot] Богомол (12) [ID: 1379] joined the server
+[21:49:00] [bot] Богомол (13) [ID: 1378] joined the server
+[21:49:00] [bot] Богомол (14) [ID: 1377] joined the server
+[21:49:00] [bot] Богомол (15) [ID: 1376] joined the server
+[21:49:00] [bot] Болотный-дрон [ID: 1375] joined the server
+[21:49:00] [bot] Болотный-дрон (1) [ID: 1374] joined the server
+[21:49:00] [bot] Болотный-дрон (2) [ID: 1373] joined the server
+[21:49:00] [bot] Болотный-дрон (3) [ID: 1372] joined the server
+[21:49:00] [bot] Болотный-дрон (4) [ID: 1371] joined the server
+[21:49:00] [bot] Болотный-дрон (5) [ID: 1370] joined the server
+[21:49:00] [bot] Болотный-дрон (6) [ID: 1369] joined the server
+[21:49:00] [bot] Болотный-дрон (7) [ID: 1368] joined the server
+[21:49:00] [bot] Болотный-дрон (8) [ID: 1367] joined the server
+[21:49:00] [bot] Торговец инструментами [ID: 1366] joined the server
+[21:49:00] [bot] Торговец инструментами (ОС) [ID: 1365] joined the server
+[21:49:00] [bot] Торговец ресурсами (1) [ID: 1364] joined the server
+[21:49:00] [bot] Торговец ресурсами (2) [ID: 1363] joined the server
+[21:49:00] [bot] Торговец ресурсами (3) [ID: 1362] joined the server
+[21:49:00] [bot] Торговец аксессуарами [ID: 1361] joined the server
+[21:49:00] [bot] Торговец дальнобоем [ID: 1360] joined the server
+[21:49:00] [bot] Торговец д-оружием [ID: 1359] joined the server
+[21:49:00] [bot] Торговец о-оружием [ID: 1358] joined the server
+[21:49:00] [bot] Торговец доспехами [ID: 1357] joined the server
+[21:49:00] [bot] Торговец одеждой [ID: 1356] joined the server
+[21:49:00] [bot] Торговец самоучителями [ID: 1355] joined the server
+[21:49:00] [bot] Торговец униформой [ID: 1354] joined the server
+[21:49:00] [bot] Торговец-языковед [ID: 1353] joined the server
+[21:49:00] [bot] Юрген [ID: 1352] joined the server
+[21:49:00] [bot] Торговец Борджиа [ID: 1351] joined the server
+[21:49:00] [bot] Торговец Кейл [ID: 1350] joined the server
+[21:49:00] [bot] Торговец зельями (ОС) [ID: 1349] joined the server
+[21:49:00] [bot] Торговец о-оружием т2 (ОС) [ID: 1348] joined the server
+[21:49:00] [bot] Торговец д-оружием т2 (ОС) [ID: 1347] joined the server
+[21:49:00] [bot] Торговец доспехами т2 (ОС) [ID: 1346] joined the server
+[21:49:00] [bot] Торговец расходниками 1 (ОС) [ID: 1345] joined the server
+[21:49:00] [bot] Торговец расходниками 2 (ОС) [ID: 1344] joined the server
+[21:49:00] [bot] Торговец Мартин [ID: 1343] joined the server
+[21:49:00] [bot] Торговец Брэддоу [ID: 1342] joined the server
+[21:49:00] [bot] Торговец Монастырь [ID: 1341] joined the server
+[21:49:00] [bot] Торговец СЛ [ID: 1340] joined the server
+[21:49:00] [bot] Контрабандист Скип [ID: 1339] joined the server
+[21:49:00] [bot] Торговец Альцено [ID: 1338] joined the server
+[21:49:00] [bot] Учитель-таланты (З) [ID: 1337] joined the server
+[21:49:00] [bot] Учитель-таланты (ОС) [ID: 1336] joined the server
+[21:49:00] [bot] Торговец Дэвэри [ID: 1335] joined the server
+[21:49:00] [bot] Торговец Фабиан [ID: 1334] joined the server
+[21:49:00] [bot] Торговец Илларион [ID: 1333] joined the server
+[21:49:00] [bot] Торговец Лоренцо [ID: 1332] joined the server
+[21:49:00] [bot] Торговец Араксос [ID: 1331] joined the server
+[21:49:00] [bot] Овца [ID: 1330] joined the server
+[21:49:00] [bot] Овца [ID: 1329] joined the server
+[21:49:00] [bot] Фермер-1 [ID: 1328] joined the server
+[21:49:00] [bot] Фермер-2 [ID: 1327] joined the server
+[21:49:00] [bot] Пастух-1 [ID: 1326] joined the server
+[21:49:00] [bot] Пастух-2 [ID: 1325] joined the server
+[21:49:00] [bot] Дровосек-1 [ID: 1324] joined the server
+[21:49:00] [bot] Дровосек-2 [ID: 1323] joined the server
+[21:49:00] [bot] Шахтер-1 [ID: 1322] joined the server
+[21:49:00] [bot] Шахтер-2 [ID: 1321] joined the server
+[21:49:00] [bot] Рыбак-1 [ID: 1320] joined the server
+[21:49:00] [bot] Рыбак-2 [ID: 1319] joined the server
+[21:49:00] [bot] Охотник-1 [ID: 1318] joined the server
+[21:49:00] [bot] Охотник-2 [ID: 1317] joined the server
+[21:49:00] [bot] Шахтер-3 [ID: 1316] joined the server
+[21:49:00] [bot] Шахтер-4 [ID: 1315] joined the server
+[21:49:00] [bot] Шахтер-5 [ID: 1314] joined the server
+[21:49:00] [bot] Шахтер-6 [ID: 1313] joined the server
+[21:49:00] [bot] Охотник-3 [ID: 1312] joined the server
+[21:49:00] [bot] Охотник-4 [ID: 1311] joined the server
+[21:49:00] [bot] Дровосек-3 [ID: 1310] joined the server
+[21:49:00] [bot] Дровосек-4 [ID: 1309] joined the server
+[21:49:00] [bot] Дровосек-5 [ID: 1308] joined the server
+[21:49:00] [bot] Дровосек-6 [ID: 1307] joined the server
+[21:49:00] [bot] Пастух-3 [ID: 1306] joined the server
+[21:49:00] [bot] Пастух-4 [ID: 1305] joined the server
+[21:49:00] [bot] Травник-2 [ID: 1304] joined the server
+[21:49:00] [bot] Травник-1 [ID: 1303] joined the server
+[21:49:00] [bot] Фермер-3 [ID: 1302] joined the server
+[21:49:00] [bot] Фермер-4 [ID: 1301] joined the server
+[21:49:00] [bot] Фермер-5 [ID: 1300] joined the server
+[21:49:00] [bot] Травник-3 [ID: 1299] joined the server
+[21:49:00] [bot] Травник-4 [ID: 1298] joined the server
+[21:49:00] [bot] Рыбак-3 [ID: 1297] joined the server
+[21:49:00] [bot] Рыбак-4 [ID: 1296] joined the server
+[21:49:00] [bot] Ассистент губернатора [ID: 1295] joined the server
+[21:49:00] [bot] Банщик [ID: 1294] joined the server
+[21:49:00] [bot] Перевозчик [ID: 1293] joined the server
+[21:49:00] [bot] Проводник [ID: 1292] joined the server
+[21:49:00] [bot] Проводник [ID: 1291] joined the server
+[21:49:00] [bot] Проводник [ID: 1290] joined the server
+[21:49:00] [bot] Проводник [ID: 1289] joined the server
+[21:49:00] [bot] Проводник [ID: 1288] joined the server
+[21:49:00] [bot] Обменщик золота [ID: 1287] joined the server
+[21:49:00] [bot] Обменщик золота [ID: 1286] joined the server
+[21:49:00] [bot] Обменщик серебра [ID: 1285] joined the server
+[21:49:00] [bot] Обменщик серебра [ID: 1284] joined the server
+[21:49:00] [bot] Скупщик материалов [ID: 1283] joined the server
+[21:49:00] [bot] Патрульный [ID: 1282] joined the server
+[21:49:00] [bot] Постовой [ID: 1281] joined the server
+[21:49:00] [bot] Постовой [ID: 1280] joined the server
+[21:49:00] [bot] Патрульный [ID: 1279] joined the server
+[21:49:00] [bot] Патрульный [ID: 1278] joined the server
+[21:49:00] [bot] Постовой [ID: 1277] joined the server
+[21:49:00] [bot] Постовой [ID: 1276] joined the server
+[21:49:00] [bot] Постовой [ID: 1275] joined the server
+[21:49:00] [bot] Постовой [ID: 1274] joined the server
+[21:49:00] [bot] Патрульный [ID: 1273] joined the server
+[21:49:00] [bot] Патрульный [ID: 1272] joined the server
+[21:49:00] [bot] Человек ростовщика [ID: 1271] joined the server
+[21:49:00] 
+
+[21:49:00] 
+Filterscript 'filterscripts/gate.lua' has been loaded.
+
+[21:49:00] 
+
+[21:49:00] Awaiting for connections on 169.254.41.93|28654...
+[21:49:00] Awaiting for connections on 169.254.152.20|28654...
+[21:49:00] Awaiting for connections on 192.168.0.104|28654...
+[21:49:00] Awaiting for connections on 169.254.162.128|28654...
+[21:49:00] Awaiting for connections on 169.254.255.133|28654...

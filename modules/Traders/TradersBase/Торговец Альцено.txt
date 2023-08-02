@@ -1,0 +1,2 @@
+Дедрик
+15 0 0 8827 228 1490 238 hum_body_naked0 76 Hum_Head_Thief 10 itar_km_rm_hat_02 FULLWORLD2.ZEN 0

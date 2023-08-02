@@ -1,0 +1,10 @@
+Server
+15 6 3348 66303 6122 -37433 16 Hum_Body_Naked0 21 HUM_HEAD_BALD 15 ITAR_KM_RM_NOHAT_02 FULLWORLD2.ZEN 0
+zdpwla_itpl_mana_herb_02 30 23 ç
+zdpwla_itfo_medovuha 10 2 ç
+zdpwla_itfo_addon_meatsoup 10 11 ç
+zdpwla_itfo_acornbooze 20 6 ç
+ooltyb_itmi_dough 15 71 ç
+jkztzd_itrw_bow_l_04 5 228 ç
+jkztzd_itrw_sld_bow 5 228 ç
+saqtsh_itru_lightheal 1 592 ç

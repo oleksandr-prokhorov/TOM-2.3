@@ -1,0 +1,2 @@
+Орест
+15 0 0 8532 1138 -15242 299 hum_body_naked0 38 hum_head_fighter 94 yfauun_itar_bau_m FULLWORLD2.ZEN 0

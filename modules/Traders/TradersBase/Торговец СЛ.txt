@@ -1,0 +1,16 @@
+Server
+15 6 1200 66025 6138 -37250 60 Hum_Body_Naked0 21 HUM_HEAD_BALD 15 YFAUUN_ITAR_REDSHAR FULLWORLD2.ZEN 0
+ooltyb_itmi_quartz 15 101 ç
+zdpwla_itfomuttonraw 15 2 ç
+jkztzd_itmw_shortsword2 4 106 ç
+jkztzd_itmw_addon_pir1hm 3 274 ç
+jkztzd_itmw_steinbrecher 1 274 ç
+jkztzd_itmw_schwert4 2 833 ç
+yfauun_sld_armor_l3 5 85 ç
+yfauun_ithl_m_helmet4 3 158 ç
+yfauun_ithl_m_helmet3 3 143 ç
+ooltyb_itmi_m_ignot 3 351 ç
+ooltyb_itmi_alchemy_alcohol_01 11 22 ç
+zdpwla_itmi_dye 11 59 ç
+ooltyb_itmiswordraw 3 112 ç
+yvnzmz_itmi_zamok 5 57 ç
